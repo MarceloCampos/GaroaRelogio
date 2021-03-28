@@ -1,7 +1,7 @@
 # GaroaRelogio
 
 
-![Screenshot](GaroaRelogio-render 1.png)
+![Screenshot](GaroaRelogio-render1.png)
 
 ![Screenshot](GaroaRelogio-BAdgeMSX.jpg)
 
